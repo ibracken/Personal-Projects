@@ -20,4 +20,4 @@ Simple web scraping scripts using Python and the BeautifulSoup and pandas librar
 
 ## Simple Blockchain in Go
 
-This project demonstrates the basic principles of a blockchain, implemented in Go. It includes block creation, proof-of-work mining, and persistent storage with BoltDB.
+This project demonstrates the basic principles of a blockchain, implemented in Go. It includes block creation, proof-of-work mining, and persistent storage with BoltDB. Link to repository is [here](https://github.com/ibracken/Simple-Blockchain).
