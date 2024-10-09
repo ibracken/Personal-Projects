@@ -1,3 +1,7 @@
+## Simple Blockchain in Go
+
+This project demonstrates the basic principles of a blockchain, implemented in Go. It includes block creation, proof-of-work mining, and persistent storage with BoltDB. Link to repository is [here](https://github.com/ibracken/Simple-Blockchain).
+
 ## Basic Instagram
 
 Built with Next.js, a React framework. Uses Supabase to store user information and posts. Very minimal styling and features beyond the basic concept.
@@ -17,7 +21,3 @@ One of my first Next.js projects. A simple static website showcasing personal in
 ## WebScraping
 
 Simple web scraping scripts using Python and the BeautifulSoup and pandas libraries to extract data from websites.
-
-## Simple Blockchain in Go
-
-This project demonstrates the basic principles of a blockchain, implemented in Go. It includes block creation, proof-of-work mining, and persistent storage with BoltDB. Link to repository is [here](https://github.com/ibracken/Simple-Blockchain).
