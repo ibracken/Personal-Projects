@@ -4,7 +4,7 @@ Built with Next.js, a React framework. Uses Supabase to store user information a
 
 ## gymTracker
 
-Also built with Next.js. Based on the Basic Instagram concept but significantly more advanced. The website allows users to input workouts, featuring user authentication, styling, and interactive components. It uses dynamic routing and foreign key relations to store and display user information related to their workouts. Link to repository.
+Also built with Next.js. Based on the Basic Instagram concept but significantly more advanced. The website allows users to input workouts, featuring user authentication, styling, and interactive components. It uses dynamic routing and foreign key relations to store and display user information related to their workouts. Link to repository is [here] (https://github.com/ibracken/gymTracker).
 
 ## KnightTour
 
