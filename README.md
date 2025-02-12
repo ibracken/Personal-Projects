@@ -1,7 +1,15 @@
+## NBA Prediction Model:
+
+This project is a machine learning model designed to predict NBA player fantasy points using a random forest regression algorithm. The model is built with Python and leverages Selenium for web scraping, PostgreSQL for data storage, and Python for data processing and model training.
+
+With its advanced predictive capabilities, the model outperforms DraftKings projections 48% of the time, showcasing its strong accuracy and potential for real-world applications.
+
+Check out the full project [here](https://github.com/ibracken/NBA_Machine_Learning).
+
 ## CSXL Site To-Do List:
 
 In this project, another student and I built a To-Do List for the CSXL, the community hub of the UNC Computer Science Department, which sees thousands of users per month.
-This project, which is built with Angular, FastAPI, PostgreSQL and TypeScript, can be found [here](https://github.com/comp423-24f/ex04-todo-api-ex04-05)
+This project, which is built with Angular, FastAPI, PostgreSQL and TypeScript, can be found [here](https://github.com/comp423-24f/ex04-todo-api-ex04-05).
 
 ## Simple Blockchain in Go
 
@@ -23,6 +31,3 @@ Java algorithm to calculate a series of moves to get a knight around a chessboar
 
 One of my first Next.js projects. A simple static website showcasing personal information and projects.
 
-## WebScraping
-
-Simple web scraping scripts using Python and the BeautifulSoup and pandas libraries to extract data from websites.
