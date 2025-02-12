@@ -1,6 +1,6 @@
 ## NBA Prediction Model:
 
-This project is a machine learning model designed to predict NBA player fantasy points using a random forest regression algorithm. The model is built with Python and leverages Selenium for web scraping, PostgreSQL for data storage, and Python for data processing and model training.
+This project is a machine learning model designed to predict NBA player fantasy points using a random forest regression algorithm. The model is built with Python and leverages Selenium for web scraping, PostgreSQL for data storage, and Python for data processing and sklearn for model training.
 
 With its advanced predictive capabilities, the model outperforms DraftKings projections 48% of the time, showcasing its strong accuracy and potential for real-world applications.
 
