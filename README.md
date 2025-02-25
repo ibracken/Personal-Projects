@@ -8,6 +8,7 @@ Check out the full project [here](https://github.com/ibracken/NBA_Machine_Learni
 
 ## Secure Double Ratchet Messaging Service
 This project implements a secure messaging platform using the Double Ratchet encryption algorithm, providing strong end-to-end encryption with perfect forward secrecy and post-compromise security. The system features certificate-based authentication, secure message exchange between multiple users, and a server-based abuse reporting mechanism that preserves user privacy. Built with Python using the cryptography library, it demonstrates advanced cryptographic concepts including ECDH key exchange, AES-GCM encryption, and El-Gamal encryption for secure reporting. The implementation ensures messages remain secure even if past keys are compromised.
+
 Link to repository is [here](https://github.com/csaez22/double-ratchet).
 
 
@@ -18,15 +19,15 @@ This project, which is built with Angular, FastAPI, PostgreSQL and TypeScript, c
 
 ## Simple Blockchain in Go
 
-This project demonstrates the basic principles of a blockchain, implemented in Go. It includes block creation, proof-of-work mining, and persistent storage with BoltDB. Link to repository is [here](https://github.com/ibracken/Simple-Blockchain).
+This project demonstrates the basic principles of a blockchain, implemented in Go. It includes block creation, proof-of-work mining, and persistent storage with BoltDB. 
 
-## Basic Instagram
-
-Built with Next.js, a React framework. Uses Supabase to store user information and posts. Very minimal styling and features beyond the basic concept.
+Link to repository is [here](https://github.com/ibracken/Simple-Blockchain).
 
 ## gymTracker
 
-Also built with Next.js. Based on the Basic Instagram concept but significantly more advanced. The website allows users to input workouts, featuring user authentication, styling, and interactive components. It uses dynamic routing and foreign key relations to store and display user information related to their workouts. Link to repository is [here](https://github.com/ibracken/gymTracker). Mobile version built using React Native can be found [here](https://github.com/ibracken/GymTrackerMobile).
+Also built with Next.js. Based on the Basic Instagram concept but significantly more advanced. The website allows users to input workouts, featuring user authentication, styling, and interactive components. It uses dynamic routing and foreign key relations to store and display user information related to their workouts. 
+
+Link to repository is [here](https://github.com/ibracken/gymTracker). Mobile version built using React Native can be found [here](https://github.com/ibracken/GymTrackerMobile).
 
 ## KnightTour
 
