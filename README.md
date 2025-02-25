@@ -6,6 +6,11 @@ With its advanced predictive capabilities, the model outperforms DraftKings proj
 
 Check out the full project [here](https://github.com/ibracken/NBA_Machine_Learning).
 
+## Secure Double Ratchet Messaging Service
+This project implements a secure messaging platform using the Double Ratchet encryption algorithm, providing strong end-to-end encryption with perfect forward secrecy and post-compromise security. The system features certificate-based authentication, secure message exchange between multiple users, and a server-based abuse reporting mechanism that preserves user privacy. Built with Python using the cryptography library, it demonstrates advanced cryptographic concepts including ECDH key exchange, AES-GCM encryption, and El-Gamal encryption for secure reporting. The implementation ensures messages remain secure even if past keys are compromised.
+Link to repository is [here] (https://github.com/csaez22/double-ratchet).
+
+
 ## CSXL Site To-Do List:
 
 In this project, another student and I built a To-Do List for the CSXL, the community hub of the UNC Computer Science Department, which sees thousands of users per month.
@@ -26,8 +31,3 @@ Also built with Next.js. Based on the Basic Instagram concept but significantly 
 ## KnightTour
 
 Java algorithm to calculate a series of moves to get a knight around a chessboard without repeating any squares. Involves optimization to reduce runtime, successfully working for boards larger than traditional chessboards. The most successful approach uses recursion and a look-ahead strategy to determine the future move options.
-
-## Secure Double Ratchet Messaging Service
-This project implements a secure messaging platform using the Double Ratchet encryption algorithm, providing strong end-to-end encryption with perfect forward secrecy and post-compromise security. The system features certificate-based authentication, secure message exchange between multiple users, and a server-based abuse reporting mechanism that preserves user privacy. Built with Python using the cryptography library, it demonstrates advanced cryptographic concepts including ECDH key exchange, AES-GCM encryption, and El-Gamal encryption for secure reporting. The implementation ensures messages remain secure even if past keys are compromised.
-Link to repository is [here] (https://github.com/csaez22/double-ratchet).
-
